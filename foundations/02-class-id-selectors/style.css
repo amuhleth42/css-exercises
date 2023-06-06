@@ -1,0 +1,19 @@
+.red {
+    background-color: rgb(255, 127, 127);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.red.cool {
+    font-size: 24px;
+}
+
+#title {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#bold {
+    font-size: 24px;
+    font-weight: bold;
+    background-color:rgb(84, 255, 104)
+}
